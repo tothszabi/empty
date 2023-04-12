@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'fastlane', git: 'git@github.com:tothszabi/fastlane.git', branch: 'test-branch'
+gem 'fastlane', git: 'https://github.com/tothszabi/fastlane', branch: 'test-branch'
